@@ -1,4 +1,4 @@
-![Header image with info-beamer.com in the center](header.jpg)
+[![Header image with info-beamer.com in the center](header.jpg)](https://info-beamer.com)
 
 # The digital signage solution for the Raspberry Pi
 
